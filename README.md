@@ -83,6 +83,29 @@ const iannis = {
 
 <div align="center">
 
+### 🚀 [ARIA - Plateforme de Sécurité Urbaine](https://github.com/IannisVasselet/Aria-new-app)
+**Écosystème complet pour la sécurité urbaine avec app mobile native**
+- **Tech:** React Native, Expo SDK 53, TypeScript, Node.js, Prisma, PostgreSQL
+- **Features:** 
+  - 🗺️ **Géolocalisation temps réel** avec React Native Maps
+  - 🏢 **Gestion d'entreprises** avec système de vérification admin
+  - 📍 **Safe Places** - Référencement de lieux sécurisés
+  - 🔔 **Notifications push** natives avec background tasks
+  - 📞 **Intégration Twilio** pour communications d'urgence
+  - 🎥 **Gestion média** (photo/vidéo) avec Expo AV
+- **Architecture:** 
+  - App mobile (80KB+ TypeScript)
+  - API REST avec authentification JWT
+  - Base de données relationnelle avec Prisma ORM
+  - Architecture modulaire (components, services, contexts, utils)
+- **Highlights:** 
+  - **Production-ready** avec EAS Build configuration
+  - **Multi-plateforme** (iOS/Android/Web)
+  - **Architecture enterprise** avec gestion des rôles
+  - **Performance optimisée** avec async storage et background fetch
+
+---
+
 ### ✈️ [Flight Simulator - Architecture C++](https://github.com/IannisVasselet/flight-sim-plan)
 **Simulateur de vol avancé avec physique réaliste (Projet 2025)**
 - **Tech:** C++, Architecture modulaire, Physique temps réel
@@ -107,16 +130,6 @@ const iannis = {
 - **Features:** Compréhension naturelle, gestion contexte, commandes vocales
 - **Highlights:** Architecture conversationnelle, apprentissage adaptatif
 - **Size:** 178KB+ de modèles entraînés
-
----
-
-### 🏠 [ISILIVING - Plateforme Immobilière Complète](https://github.com/IannisVasselet/isiliving-app)
-**Écosystème complet : App mobile + Backend + Shop + API**
-- **Tech:** React Native, Node.js, TypeScript, MongoDB, API REST
-- **Architecture:** 4 repositories interconnectés (App, Backend, Shop, API)
-- **Features:** Géolocalisation, paiements, notifications push, admin dashboard
-- **Demo:** [App déployée](https://isiliving-app.vercel.app)
-- **Highlights:** Architecture microservices, intégrations complexes
 
 ---
 

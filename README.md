@@ -7,7 +7,7 @@
   **🎯 Software Engineer avec 4 ans d'expérience | Spécialisé en développement Full-Stack & IA**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iannis-vasselet)
-  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://portfolio-iannis-vasselet.vercel.app) -->
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://portfolio-creative.vercel.app/) 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iannisvasselet@gmail.com)
   
 </div>
@@ -184,7 +184,7 @@ const iannis = {
 <div align="center">
   
   📧 **Email:** iannisvasselet@gmail.com  
-  <!-- 🌐 **Portfolio:** [portfolio-iannis-vasselet.vercel.app](https://portfolio-iannis-vasselet.vercel.app)   -->
+  🌐 **Portfolio:** [portfolio-iannis-vasselet.vercel.app](https://portfolio-creative.vercel.app/)
   📍 **Location:** Marseille, France  
   
   ---
